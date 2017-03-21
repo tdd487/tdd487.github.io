@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "my name is Hanson Zhang.On my way to change"
+description: "虫的世界，我的世界"
 header-img: "img/green.jpg"
 ---
 
@@ -10,17 +10,17 @@ header-img: "img/green.jpg"
 
 # 联系方式
 
-*   Email：yuanpingzhang123@gmail.com
-*   QQ/微信号：835749634/张远平
+*   Email：790889091@qq.com
+*   QQ/微信号：790889091/虫子
 
 * * *
 
 # 个人信息
 
-*   张远平/男/1993
-*   本科/广东工业大学 
-*   技术博客: <http://www.myhanson.com>
-*   Github: <https://github.com/zyphs21>
-*   目前就职于：ZTESoft
+*   虫子/男/1990
+*   本科/桂林电子科技大学
+*
+*   Github: <https://github.com/tdd487>
+*   目前就职于：广州市广百股份有限公司
 
 * * *
