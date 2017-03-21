@@ -8,8 +8,8 @@ url: "http://zyphs21.github.io"
 
 # About/contact
 owner: 
-  name: "张远平"
-  email: yuanpingzhang123@gmail.com
+  name: "缺钙的虫"
+  email: 790889091@qq.com
   bio: ""
 
 # Data
@@ -18,11 +18,10 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: zyphs21
-weibo_username: 汉森HS
+github_username: tdd487
+weibo_username: 姒幽茕独
 facebook_username:
-zhihu_username: zhang-yi-sen-46
-
+zhihu_username: tdd487
 # Build settings  
 # use Github Flavored Markdown !important  
 # document: http://jekyllrb.com/docs/configuration/#kramdown  
