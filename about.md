@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "关于"
 description: "虫的世界，我的世界"
 header-img: "img/green.jpg"
 ---
